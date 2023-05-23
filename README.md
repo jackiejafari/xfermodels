@@ -1,2 +1,2 @@
 # xfermodels
-python transfer models 
+python transfer models -- Resnet and Xception models utilizing keras + tensorflow 
